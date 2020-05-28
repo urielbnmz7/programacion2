@@ -1,0 +1,65 @@
+# include  < stdio.h >
+
+int  main ()
+{
+    int opcion;
+    
+    while (¡opción! = 10 )
+    {
+        printf ( " =================== Bienvenido a Cine "Clip"======================= " );
+        printf ( " \ n Elija una opción " );
+        printf ( " \ n 1 Catelera " );
+        printf ( " \ n 2 Funciones " );
+        printf ( " \ n 3 Dulcería " );
+	printf ( " \ n 4 Salas " );
+        printf ( " \ n 5 Membresía " );
+        printf ( " \ n 6 Pago " );
+        printf ( " \ n 7 Código de descuento " );
+        printf ( " \ n 8 Sumar puntos a la membresía " );
+        printf ( " \ n 9 Imprimir boleto " );
+        printf ( " \ n 10 Salir \ n " );
+        printf ( " Su opción: " );
+        scanf ( " % d " , & opcion);
+        
+        if (opción == 1 )
+        {
+        
+        }
+        if (opción == 2 )
+        {
+        
+        }
+        if (opción == 3 )
+        {
+            
+        }
+        if (opción == 4 )
+        {
+        
+        }
+        if (opción == 5 )
+        {
+        
+        }
+        if (opción == 6 )
+        {
+        
+        }
+        if (opción == 7 )
+        {
+        
+        }
+        if (opción == 8 )
+        {
+            
+        }
+        if (opción == 9 )
+        {
+        
+        }
+        if (opción == 10 )
+        {
+        
+        }
+    }
+}
