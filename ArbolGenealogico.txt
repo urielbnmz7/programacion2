@@ -1,0 +1,47 @@
+#include <stdio.h>
+int main (){
+    int Tatarabuelos,Bisabuelos,Abuelos,Papas,Hermanos,Sobrino,opcion;
+      printf("Bienvenidos a mi arbol genealogico:\n");
+       while(opcion!=6){
+           printf("Aquien quieres conocer \n");
+           printf("1.Tatarabuelos \n");
+           printf("2.Bisabuelos \n");
+           printf("3.Abuelos \n");
+           printf("4.Papas \n");
+           printf("5.Hermanos \n");
+           printf("6.Sobrino \n");
+           scanf("%d",&opcion);
+       
+    if(opcion==1){
+        printf(" Maria de la luz \n");
+        printf(" Fransisco  \n");
+        }
+    if(opcion==2){
+        printf("Marina \n");
+        printf("Jose luis \n");
+         printf("Alixel \n");
+         printf("Dionel \n");
+    }
+    if(opcion==3){
+        printf("Ma. Apolinar \n");
+        printf("Alejandro \n");
+        printf("Rufina \n");
+        printf("Angel \n");
+    }
+    if(opcion==4){
+        printf("Lidia\n");
+        printf("Neftali \n");
+    }
+    if (opcion==5){
+        printf("Frabcisco \n");
+        printf("Adilene \n");
+        printf("Irvin Uriel \n");
+       }
+    if (opcion==6){
+        printf("Joseph \n");
+
+    return 0;
+    }
+       }
+}
+  
